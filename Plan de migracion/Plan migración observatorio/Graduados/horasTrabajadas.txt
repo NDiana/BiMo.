@@ -1,0 +1,7 @@
+(id,horas)
+1,Menos de 10 horas
+2,Entre 10 y 20 horas
+3,Entre 21 y 30 horas
+4,Entre 31 y 48 horas
+5,Mas de 48 horas
+9,ns/nr

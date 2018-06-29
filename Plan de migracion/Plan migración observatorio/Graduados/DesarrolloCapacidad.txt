@@ -1,0 +1,7 @@
+(id,respueta)
+1,Totalmente de acuerdo
+2,De acuerdo
+3,Ni de acuerdo ni en desacuerdo
+4,En desacuerdo
+5,Totalmente en desacuerdo
+9,No responde  

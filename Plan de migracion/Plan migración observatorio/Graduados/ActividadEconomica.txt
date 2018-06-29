@@ -1,0 +1,11 @@
+(id,Actividad)
+1,Agricultura Pesca Caza y Silvicultura
+2,Explotacion de Minas y Canteras
+3,Industrias Manufactureras
+4,Electricidad Gas y Agua
+5,Construccion
+6,Comercio Restaurantes y Hoteles
+7,Transporte Almacenamiento y Comunicaciones
+8,Establecimiento Financiero Seguros y Servicios a companias
+9,Servicios comunales sociales y personales 
+10,Otra actividad no mencionada  

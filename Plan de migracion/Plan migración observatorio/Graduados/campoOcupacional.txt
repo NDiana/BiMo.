@@ -1,0 +1,131 @@
+(id,campo)
+001,Alta Direccion Publica y Privada
+011,Gerentes de Servicios Administrativos
+012,Gerentes de Servicios Financieros y Comerciales
+013,Gerentes de Servicios de Comunicacion
+021,Gerentes de Ingenieria Ciencias y Sistemas de Informacion
+031,Gerentes de Servicios a la Salud
+041,Gerentes de la Administracion Publica
+042,Gerentes de Educacion Servicios Social y Comunitario
+051,Gerentes de Arte Cultura Esparcimiento y Deporte
+061,Gerentes de Ventas Mercadeo y Publicidad
+062,Gerentes de Comercio al Por Menor
+063,Gerentes de Servicios de Alimentos y Alojamiento
+064,Oficiales de Servicios de Proteccion y Defensa
+065,Gerentes de Otros Servicios
+071,Gerentes de Produccion Primaria y Extractiva
+081,Gerentes de Construccion y Transporte
+082,Gerentes de Operacion y Mantenimiento
+091,Gerentes de Fabricacion y Servicios Publicos
+111,Contadores Auditores y Profesionales en Inversion
+112,Profesionales en Recursos Humanos y Organizacion de las Empresas
+121,Supervisores de Empleados Administrativos
+122,Asistentes Administrativos
+123,Ocupaciones Administrativas de Finanzas y Seguros
+131,Secretarios y Oficinistas en General
+132,Digitadores y Transcriptores
+133,Auxiliares de Finanzas y Seguros
+134,Auxiliares de Apoyo Administrativo
+135,Auxiliares de Biblioteca Publicaciones Informacion y Afines
+136,Auxiliares de Distribucion de Correo y Mensajeria
+137,Auxiliares de Registro Programacion y Distribucion
+211,Profesionales en Ciencias Fisicas y Quimicas
+212,Profesionales en Ciencias Naturales
+213,Ingenieros en Construccion Mecanicos Electricos y Quimicos
+214,Otros Ingenieros
+215,Arquitectos Urbanistas y Agrimensores
+216,Matematicos Estadisticos y Actuarios
+217,Analistas Administradores y Programadores de Sistemas Informaticos
+221,Ocupaciones Tecnicas en Ciencias Fisicas
+222,Ocupaciones Tecnicas en Ciencias Naturales
+223,Ocupaciones Tecnicas en Construccion Mecanica y Fabricacion
+224,Ocupaciones Tecnicas en Electricidad Electronica y Telecomunicaciones
+225,Ocupaciones Tecnicas en Diseno Topografia y Cartografia
+226,Inspectores de Normas Tecnicas
+227,Oficiales y Controladores de Transporte
+228,Ocupaciones Tecnicas en Informatica y Computacion
+311,Medicos Odontologos y Veterinarios
+312,Optometras y Otros Profesionales del Diagnostico y Tratamiento de la Salud
+313,Farmaceuticos Dietistas y Nutricionistas
+314,Profesionales en Terapia y Valoracion
+315,Profesionales en Enfermeria
+321,Ocupaciones Tecnicas en Asistencia Medica
+322,Tecnicos Dentales
+323,Otras Ocupaciones Tecnicas en Salud
+331,Ocupaciones Auxiliares en Servicios de la Salud
+411,Jueces y Abogados
+412,Profesores de Educacion Superior y Especialistas en Metodos Pedagogicos
+413,Instructores de Formacion para el Trabajo
+414,Profesores y Orientadores de Educacion Preescolar Basica y Media
+415,Psicologos Trabajadores Sociales y Clerigos
+416,Otros Profesionales de las Ciencias Sociales Humanisticas
+417,Asesores Consultores y Funcionarios de Politicas y Programas
+421,Ocupaciones de Nivel Medio en Servicio Social Educacion y Religion
+511,Bibliotecarios Archivistas y Restauradores
+512,Escritores Traductores y Profesionales en Comunicacion
+513,Artistas Creativos e Interpretes
+521,Ocupaciones Tecnicas en Museos Galerias y Bibliotecas
+522,Fotografos y Ocupaciones Tecnicas en Arte Grafico Cine Radio TV y Artes Escenicas
+523,Locutores y Otros Artistas del Espectaculo
+524,Disenadores y Artesanos
+525,Deportistas Entrenadores Arbitros y Ocupaciones Relacionadas
+621,Supervisores y Administradores de Ventas y Servicios
+622,Suboficiales y Tecnicos de los Servicios de Proteccion y Defensa
+623,Ocupaciones en Ventas Tecnicas Compras e Intermediacion
+624,Jefes de Cocina y Chefs
+631,Representantes en Ventas
+632,Dependientes de Comercio y Demostradores
+633,Ocupaciones de Servicios a Pasajeros
+634,Guias de Turismo y Recreacion
+635,Ocupaciones de Servicio de Alimentos y Bebidas
+636,Ocupaciones de Servicios de Proteccion
+637,Ocupaciones de Servicios Personales
+661,Ocupaciones Elementales en Ventas
+662,Ayudantes de Cocina
+663,Empleados de Aseo y Servicio Domestico
+664,Ocupaciones Elementales en Servicios
+721,Supervisores de Mineria Petroleo y Gas
+722,Supervisores de Agricultura Pecuaria y Silvicultura
+723,Contratistas y Administradores en Agricultura Ganaderia y Acuicultura
+724,Expertos en Pesca
+731,Trabajadores Mineros y de Explotacion de Petroleo y Gas
+732,Trabajadores Forestales y de Silvicultura
+733,Trabajadores de Produccion Agropecuaria
+734,Trabajadores de la Pesca
+761,Obreros de Produccion Primaria y Extractiva
+821,Contratistas y Supervisores de Oficios y Operacion de Equipo
+822,Supervisores de Operaciones de Transporte Ferroviario y Automotor
+831,Ajustadores de MaquinasHerramientas y Ocupaciones Relacionadas
+832,Ocupaciones en Electricidad y Telecomunicaciones
+833,lomeros e Instaladores de Tuberias
+834,Ocupaciones de Moldeo Forja y Montaje de Estructuras Metalicas
+835,Carpinteros y Ebanistas
+836,Ocupaciones de la Construccion
+837,Mecanicos de Maquinaria y Equipo Pesado
+838,Mecanicos de Vehiculos Automotores
+839,Otros Mecanicos
+841,Otros Trabajadores de Reparacion e Instalacion
+842,Tapiceros Sastres Zapateros y Otros Oficios
+843,Operadores de Maquinas Estacionarias y Plantas de Energia
+844,Operadores de Grua y Perforadores
+845,Operadores de Equipo Pesado
+846,Maquinistas y Ocupaciones de Operacion de Transporte Ferroviario
+847,Conductores de Vehiculo Automotor
+848,Otros Operadores de Equipo de Transporte de Pasajeros y Carga
+849,Operarios Portuarios y de Transporte de Materiales
+861,Obreros y Ayudantes de la Construccion y de Otros Oficios
+862,Obreros de Mantenimiento de Obras Publicas y Otros Ayudantes
+921,Supervisores de Procesamiento
+922,Supervisores de Fabricacion y Ensamble
+923,Operadores de Central de Control y Procesos de Fabricacion y Procesamiento
+931,Operadores de Maquinas y Trabajadores Relacionados con el Tratamiento de Metales y Minerales
+932,Operadores de Maquinas y Trabajadores Relacionados con el Procesamiento de Productos Quimicos Plastico y Caucho
+933,Operadores de Maquinas y Trabajadores Relacionados con el Procesamiento de la Madera y Produccion de Pulpa y Papel
+934,Operadores de Maquinas y Trabajadores Relacionados con la Fabricacion de Productos Textiles
+935,Operadores de Maquinas y Trabajadores Relacionados con la Fabricacion de Productos de Tela Piel y Cuero
+936,Operadores de Maquinas y Trabajadores Relacionados con la Elaboracion de Alimentos Bebidas y Tabaco
+937,Operadores de Maquinas de Impresion y Ocupaciones Relacionadas
+938,Ensambladores Mecanicos Electricos y Electronicos
+939,Otros Ensambladores y Ocupaciones Relacionadas
+941,Operadores de Maquinas Herramientas para el Trabajo del Metal la Madera y Relacionados
+961,Obreros y Ayudantes de Procesamiento y Fabricacion

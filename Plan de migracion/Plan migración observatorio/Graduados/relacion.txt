@@ -1,0 +1,4 @@
+(id,relacion)
+1,Relacionado
+2,No relacionado
+9,No informa

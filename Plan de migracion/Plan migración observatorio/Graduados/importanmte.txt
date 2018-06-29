@@ -1,0 +1,29 @@
+<html>
+<head>
+<body style="background-color:#1ABC9C;">
+</body>
+<head>
+
+<form action="conexion.php" method="post" >
+<?php
+
+$enlace = mysqli_connect("127.0.0.1", "root", "12345", "parqueadero");
+
+if (!$enlace) {
+    echo "Error: No se pudo conectar a MySQL." . PHP_EOL;
+    echo "errno de depuración: " . mysqli_connect_errno() . PHP_EOL;
+    echo "error de depuración: " . mysqli_connect_error() . PHP_EOL;
+    exit;
+}
+
+
+echo "Éxito: Inicio de sesion exitoso." . PHP_EOL;
+
+
+mysqli_close($enlace);
+?> 
+<br>
+<center >
+<a class="button" href="inicio.html" target="_blank"><center> ir a pagina principal  </a>
+</center>
+</br>

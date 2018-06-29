@@ -1,0 +1,4 @@
+(id,tipoContrato)
+1,Contrato laboral a termino indefinido
+2,Contrato laboral a termino definido
+3,Contrato por prestacion de servicios

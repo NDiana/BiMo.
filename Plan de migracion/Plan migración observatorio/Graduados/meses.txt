@@ -1,0 +1,7 @@
+(id,mesesTrabajados)
+1,Ya venia trabajando
+2,Menos de tres meses
+3,Entre 3 y 6 meses
+4,Entre 7 y 12 meses
+5,Mas de 12 meses
+9,No ha trabajado

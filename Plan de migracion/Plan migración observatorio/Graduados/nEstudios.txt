@@ -1,0 +1,12 @@
+(id,descripcion)
+1,Basica Primaria
+2,Basica Secundaria
+3,Media Academica
+4,Media Tecnica
+5,Normalista
+6,Tecnica Profesional
+7,Tecnologica
+8,Profesional
+9,Especializacion
+10,Maestria
+11,Doctorado

@@ -1,0 +1,11 @@
+(id,area)
+0,Direccion y Gerencia
+1,Ocupaciones en Finanzas y Administracion 
+2,Ocupaciones en Cie cias naturales Aplicadas y relacionadas 
+3,Ocupaciones en Salud
+4,Ocupaciones en Ciencias Soicales Educacion Servicios Gubernamentales y Religion
+5,Ocupaciones en Arte Cultura Esparcimiento y Deporte 
+6,Ocupaciones en ventas y servicios
+7,Ocupaciones de la explotacion primaria y extractiva
+8,Ocupaciones de la operacion de equipos del transporte y oficios
+9,Ocupaciones de procesamiento fabricacion y ensamble

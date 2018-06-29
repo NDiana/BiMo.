@@ -1,0 +1,4 @@
+(id,estudiosExterior)
+0,No aplica
+1,Pregrado
+2,Postgrado

@@ -1,0 +1,472 @@
+(id,Ocupacion)
+0011,Miembros del Poder Ejecutivo y Legislativo
+0012,Personal Directivo de la Administracion Publica
+0013,Directores y Gerentes Generales de Servicios Financieros de Telecomunicaciones y Otros Servicios a las Empresas
+0014,Directores y Gerentes Generales de Salud Educacion servicios social y comunitario y organizaciones de membrecia
+0015,Directores y Gerentes Generales de Comercio Medios de comunicacion y otros servicios
+0016,Directores y Gerentes Generales de Produccion de bienes Servicios Publicos Transporte y Construccion
+0111,Gerentes Financieros
+0112,Gerentes de Recursos Humanos
+0113,Gerentes de Compras y Adquisiciones
+0114,Gerentes de Otros Servicios Administrativos
+0121,Gerentes de Seguros Bienes Raices y Corretaje Financiero
+0122,Gerentes de Banca Credito e Inversiones
+0123,Gerentes de Otros Servicios a las Empresas
+0131,Gerentes de Empresas de Telecomunicaciones
+0132,Gerentes de Servicios de Correo y Mensajeria
+0211,Gerentes de Ingenieria
+0212,Gerentes de Investigacion y Desarrollo en Ciencias naturales y aplicadas
+0213,Gerentes de Sistemas de Informacion y Procesamiento de datos
+0311,Gerentes de Servicios a la Salud
+0411,Gerentes de Programas de Politica Social y de Salud
+0412,Gerentes de Programas de Politica de Desarrollo Economico
+0413,Gerentes de Programas de Politica Educativa
+0414,Otros Gerentes de Administracion Publica
+0421,Administradores de Educacion Superior y Formacion para el Trabajo
+0422,Directores y Administradores de Educacion Basica y Media
+0423,Gerentes de Servicios Social Comunitario y Correccional
+0511,Gerentes de Biblioteca Archivo Museo y Galeria de Arte
+0512,Gerentes de Medios de Comunicacion y Artes Escenicas
+0513,Directores de Programas de Esparcimiento y Deporte
+0611,Gerentes de Ventas Mercadeo y Publicidad
+0612,Gerentes de Servicios de Comercio Exterior
+0621,Gerentes de Comercio al Por Menor
+0631,Gerentes de Restaurantes y Servicios de Alimentos
+0632,Gerentes de Servicios de Alojamiento
+0641,Oficiales de las Fuerzas Militares
+0642,Oficiales de Policia
+0643,Oficiales de Bomberos
+0651,Gerentes de Otros Servicios
+0711,Gerentes de Produccion Primaria (excepto agricultura)
+0712,Gerentes de Produccion Agricola y Pecuaria
+0811,Gerentes de Construccion
+0812,Gerentes de Transporte y Distribucion
+0821,Gerentes de Operacion de Instalaciones Fisicas
+0822,Gerentes de Mantenimiento
+0911,Gerentes de Produccion Industrial
+0912,Gerentes de Empresas de Servicios Publicos
+1111,Contadores y Auditores
+1112,Analistas y Agentes de Inversiones y Finanzas
+1121,Profesionales en Recursos Humanos
+1122,Profesionales en Organizacion y Administracion de las empresas
+1211,Supervisores Empleados de Apoyo Administrativo
+1212,Supervisores Empleados de Seguros y Finanzas
+1213,Supervisores Empleados de Informacion y Servicio al cliente
+1214,Supervisores Empleados de Correo y Mensajeria
+1215,Supervisores Empleados de Registro Distribucion y Programacion
+1221,Asistentes Administrativos
+1222,Administradores de Inmuebles
+1223,Asistentes de Personal y Seleccion
+1224,Asistentes de Compras y Adquisiciones
+1225,Asistentes de Juzgados Tribunales y Afines
+1226,Funcionarios de Aduanas Impuestos Inmigracion y seguridad social
+1227,Asistentes de Comercio Exterior
+1228,Organizadores de Eventos
+1231,Asistentes Contables y Financieros
+1232,Analistas de Credito y Cobranzas
+1233,Avaluadores y Liquidadores de Seguros
+1234,Agentes de Aduana
+1311,Secretarios
+1312,Auxiliares de Oficina
+1313,Recepcionistas y Operadores de Conmutador
+1321,Digitadores
+1322,Transcriptores y Relatores
+1331,Auxiliares Contables
+1332,Cajeros de Servicios Financieros
+1333,Auxiliares de Banca Seguros y Otros Servicios Financieros
+1334,Auxiliares de Cartera y Cobranzas
+1335,Auxiliares de Nomina y Prestaciones
+1341,Auxiliares Administrativos
+1342,Auxiliares de Personal
+1343,Auxiliares de Tribunales
+1344,Auxiliares de Archivo y Registro
+1351,Auxiliares de Biblioteca
+1352,Auxiliares de Publicacion y Afines
+1353,Auxiliares de Informacion y Servicio al Cliente
+1354,Auxiliares de Estadistica y Encuestadores
+1361,Auxiliares de Correo y Servicio Postal
+1362,Carteros y Mensajeros
+1371,Auxiliares de Almacen y Bodega
+1372,Auxiliares de Compras e Inventarios
+1373,Operadores de Radio y Despachadores
+1374,Programadores de Rutas y Tripulaciones
+1375,Operadores Telefonicos
+2111,Fisicos y Astronomos
+2112,Quimicos
+2113,Geologos Geoquimicos y Geofisicos
+2114,Meteorologos
+2121,Biologos Botonicos Zoologos y Relacionados
+2122,Expertos Forestales
+2123,Expertos Agricolas y Pecuarios
+2131,Ingenieros en Construccion y Obras Civiles
+2132,Ingenieros Mecanicos
+2133,Ingenieros Electricistas
+2134,Ingenieros Electronicos y de Telecomunicaciones
+2135,Ingenieros Quimicos
+2141,Ingenieros Industriales y de Fabricacion
+2142,Ingenieros de Materiales y Metalurgia
+2143,Ingenieros de Minas
+2144,Ingenieros de Petroleos
+2145,Ingenieros de Sistemas Informatica y Computacion
+2146,Otros Ingenieros
+2151,Arquitectos
+2152,Urbanistas y Planificadores del Uso del Suelo
+2153,Profesionales Topograficos
+2161,Matematicos Estadisticos y Actuarios
+2171,Analistas de Sistemas Informaticos
+2172,Administradores de Sistemas Informaticos
+2173,Programadores de Aplicaciones Informaticas
+2211,Tecnicos en Quimica Aplicada
+2212,Tecnicos en Geologia y Mineria
+2213,Tecnicos en Meteorologia
+2221,Tecnicos en Ciencias Biologicas
+2222,Tecnicos Forestales y de Recursos Naturales
+2231,Tecnicos en Construccion y Arquitectura
+2232,Tecnicos en Mecanica y Construccion Mecanica
+2233,Tecnicos en Fabricacion Industrial
+2241,Tecnicos en Electricidad
+2242,Tecnicos en Electronica y Telecomunicaciones
+2243,Tecnicos en Instrumentos Industriales
+2244,Tecnicos en Instrumentos de Aeronavegacion
+2251,Disenadores Industriales
+2252,Dibujantes Tecnicos
+2253,Topografos
+2254,Tecnicos en Cartografia
+2261,Inspectores de Pruebas No destructivas
+2262,Inspectores de Sanidad Seguridad y Salud Ocupacional
+2263,Inspectores de Construccion
+2264,Inspectores de Equipos de Transporte e Instrumentos de medicion
+2265,Inspectores de Productos Agricolas Pecuarios y de pesca
+2271,Pilotos Ingenieros e Instructores de Vuelo
+2272,Controladores de Trafico Aereo
+2273,Capitanes y Oficiales de Cubierta
+2274,Oficiales de Maquinas
+2275,Controladores de Trafico Ferroviario y Maritimo
+2281,Tecnicos de Sistemas
+3111,Medicos Especialistas
+3112,Medicos Generales
+3113,Odontologos
+3114,Veterinarios
+3121,Optometras
+3122,Otras Ocupaciones Profesionales en Diagnostico y Tratamiento de la Salud
+3131,Farmaceuticos
+3132,Dietistas y Nutricionistas
+3141,Audiologos y Terapeutas del Lenguaje
+3142,Fisioterapeutas
+3143,Terapeutas Ocupacionales
+3151,Enfermeros
+3211,Tecnicos de Laboratorio Medico y Patologia
+3212,Tecnicos en Terapia Respiratoria y Cardiovascular
+3213,Tecnicos en Imagenes Diagnosticas
+3214,Tecnicos en Radioterapia y Medicina Nuclear
+3215,Instrumentador Quirurgico
+3221,Tecnicos Dentales
+3222,Higienistas Dentales
+3231,Tecnicos opticos
+3232,Practicantes de Medicina Alternativa
+3233,Asistentes de Ambulancia y Otras Ocupaciones Paramedicas
+3234,Otras Ocupaciones Tecnicas en Terapia y Valoracion
+3311,Auxiliares de Enfermeria
+3312,Auxiliares de Odontologia
+3313,Promotores de Salud
+3314,Auxiliares de Laboratorio Clinico
+3315,Auxiliares de Drogueria y Farmacia
+3316,Otros Auxiliares de Servicios a la Salud
+4111,Jueces
+4112,Abogados
+4121,Profesores de Educacion Superior
+4122,Especialistas en Metodos Pedagogicos y Material Didactico
+4131,Instructores de Formacion para el trabajo
+4141,Profesores de Educacion Basica Secundaria y Media
+4142,Profesores de Educacion Basica Primaria
+4143,Profesores de Preescolar
+4144,Orientadores Educativos
+4151,Psicologos
+4152,Trabajadores Sociales y Consultores de Familia
+4153,Ministros del Culto
+4161,Sociologos Antropologos y Afines
+4162,Filosofos Filologos y Afines
+4171,Consultores Investigadores y Analistas de Politica Economica
+4172,Consultores y Funcionarios de Desarrollo Economico y Comercial
+4173,Investigadores Consultores y Funcionarios de Politicas Sociales de salud y Educacion
+4174,Funcionarios de Programas Exclusivos de la Administracion Publica
+4175,Investigadores Consultores y Funcionarios de Politicas de ciencias Naturales y Aplicadas
+4211,Asistentes en Servicios Social y Comunitario
+4212,Consejeros de Servicios de Empleo
+4213,Instructores y Profesores de Personas Discapacitadas
+4214,Otros Instructores
+4215,Ocupaciones Religiosas
+4216,Asistentes Legales y Afines
+5111,Bibliotecarios
+5112,Restauradores y Curadores
+5113,Archivistas
+5121,Escritores
+5122,Editores
+5123,Periodistas
+5124,Traductores e Interpretes
+5125,Ocupaciones Profesionales en Relaciones Publicas y Comunicaciones
+5131,Productores Directores Artisticos Coreografos y Ocupaciones Relacionadas
+5132,Directores Musicales Compositores y Arreglistas
+5133,Musicos y Cantantes
+5134,Bailarines
+5135,Actores
+5136,Pintores Escultores y Otros Artistas Visuales
+5211,Ocupaciones Tecnicas Relacionadas con Museos y Galerias
+5212,Tecnicos en Biblioteca y Archivo
+5221,Fotografos
+5222,Operadores de Camara de Cine y Television
+5223,Tecnicos de Arte Grafico
+5224,Tecnicos en Transmision de Radio y Television
+5225,Tecnicos en Grabacion de Audio y Video
+5226,Otras Ocupaciones Tecnicas en Cine TV y Artes Escenicas
+5227,Ocupaciones de Asistencia en Cine TV y Artes Escenicas
+5231,Anunciadores y Locutores
+5232,Otros Artistas
+5241,Diseaadores Graficos y Dibujantes Artisticos
+5242,Disenadores de Interiores
+5243,Disenadores de Teatro Moda Exhibicion y Otros Disenadores Creativos
+5244,Artesanos
+5245,Patronistas Productos de Tela Cuero y Piel
+5251,Deportistas
+5252,Entrenadores y Preparadores Fisicos
+5253,Arbitros
+6211,Supervisores de Ventas
+6212,Administradores y Supervisores de Comercio al Por menor
+6213,Supervisores de Servicios de Alimentos
+6214,Supervisores de Personal de Manejo Domestico
+6221,Suboficiales de las Fuerzas Militares
+6222,Suboficiales de Policia
+6223,Supervisores de Vigilantes
+6224,Tecnicos Criminalisticos y Judiciales
+6231,Agentes y Corredores de Seguros
+6232,Agentes de Bienes Raices
+6233,Vendedores Ventas Tecnicas
+6234,Agentes de Compras e Intermediarios
+6241,Chefs
+6311,Vendedores Ventas no Tecnicas
+6321,Vendedores de Mostrador
+6322,Mercaderistas e Impulsadores
+6323,Cajeros de Comercio
+6324,Modelos
+6331,Agentes de Viajes
+6332,Empleados de Ventas y Servicios de Lineas Aereas maritimas y Terrestres
+6333,Auxiliares de Vuelo y Sobrecargos
+6334,Empleados de Recepcion Hotelera
+6341,Guias de Viaje y Turismo
+6342,Recreacionistas
+6343,Operadores de Juegos Mecanicos y de Salon
+6351,Cortadores de Carne Comercio Mayorista y al Detal
+6352,Panaderos y Pasteleros
+6353,Meseros y Capitan de Meseros
+6354,Barman
+6355,Cocineros
+6361,Inspectores de Policia
+6362,Funcionarios de Regulacion
+6363,Agentes de Policia
+6364,Bomberos
+6365,Guardianes de Prision
+6366,Soldados
+6367,Vigilantes y Guardias de Seguridad
+6368,Detectives e Investigadores
+6371,Acompanantes Domiciliarios
+6372,Auxiliares del Cuidado de Ninos
+6373,Estilistas Esteticistas y Afines
+6374,Trabajadores del Cuidado de Animales
+6375,Empleados de Pompas Funebres
+6376,Astrologos Adivinadores y Relacionados
+6611,Trabajadores de Estacion de Servicio
+6612,Otras Ocupaciones Elementales de las Ventas
+6621,Ayudantes de Cocina y Cafeteria
+6631,Aseadores y Servicio Domestico
+6632,Aseadores Especializados y Fumigadores
+6641,Auxiliares de Servicios a Viajeros
+6642,Auxiliares de Servicios de Recreacion y Deportes
+6643,Empleados de Lavanderia
+6644,Otras Ocupaciones Elementales de los Servicios
+7211,Supervisores Mineria y Canteras
+7212,Supervisores Perforacion y Servicios Pozos de Petroleo y gas
+7221,Supervisores Produccion Agricola
+7222,Supervisores Produccion Pecuaria
+7223,Supervisores Explotacion Forestal y Silvicultura
+7231,Agricultores y Administradores Agropecuarios
+7232,Contratistas de Servicios Agricolas y Relacionados
+7233,Contratistas y Supervisores de Servicios de Jardineria y viverismo
+7234,Administradores de Explotacion Acuicola
+7241,Capitanes y Patrones de Pesca
+7311,Operarios de Apoyo y Servicios en Mineria Bajo Tierra
+7312,Operarios de Apoyo y Servicios en Perforacion de Petroleo y gas
+7313,Mineros Produccion Bajo Tierra
+7314,Perforadores de Pozos de Gas y Petroleo y Trabajadores relacionados
+7321,Trabajadores de Explotacion Forestal
+7322,Trabajadores de Silvicultura y Forestacion
+7331,Trabajadores Agricolas
+7332,Trabajadores Pecuarios
+7333,Trabajadores de Vivero
+7334,Trabajadores del Campo
+7335,Trabajadores de Plantas de Incubacion Artificial
+7341,Pescadores
+7611,Obreros y Ayudantes de Mineria
+7612,Obreros y Ayudantes de Produccion en Pozos de Petroleo y Gas
+7613,Obreros Agropecuarios
+7614,Jardineros
+7615,Obreros de Acuicultura
+8211,Contratistas y Supervisores Ajustadores de Maquinaria-herramientas y ocupaciones relacionadas
+8212,Contratistas y Supervisores Electricidad y Telecomunicaciones
+8213,Contratistas y Supervisores Instalacion de Tuberias
+8214,Contratistas y Supervisores Moldeo Forja y Montaje de estructuras metalicas
+8215,Contratistas y Supervisores Carpinteria
+8216,Contratistas y Supervisores Mecanica
+8217,Contratistas y Supervisores Operacion de Equipo Pesado
+8218,Contratistas y Supervisores Construccion y Otras ocupaciones de instalacion y reparacion
+8221,Supervisores de Operacion de Transporte Ferroviario
+8222,Supervisores de Operacion de Transporte Terrestre (no ferroviario)
+8311,Ajustadores de Maquinas Herramientas
+8312,Modelistas y Matriceros
+8321,Electricistas Industriales
+8322,Electricistas Residenciales
+8323,Instaladores de Redes de Energia Electrica
+8324,Instaladores y Reparadores de Redes y Lineas de Telecomunicaciones
+8325,Trabajadores de Instalacion y Reparacion de Equipos de Telecomunicaciones
+8326,Tecnicos de Mantenimiento y Servicio de Television por cable
+8331,Plomeros
+8332,Instaladores de Tuberias y Sistemas de Aspersion
+8333,Instaladores de Redes y Equipos a Gas
+8341,Chapistas y Caldereros
+8342,Soldadores
+8343,Montadores de Estructuras Metalicas
+8344,Ornamentistas y Forjadores
+8351,Carpinteros
+8352,Ebanistas
+8361,Oficiales de Construccion
+8362,Trabajadores en Hormigon y Enfoscado
+8363,Enchapadores
+8364,Techadores
+8365,Instaladores de Material Aislante
+8366,Pintores y Empapeladores
+8367,Instaladores de Pisos
+8368,Revocadores
+8371,Mecanicos Industriales
+8372,Mecanicos de Maquinaria Textil
+8373,Mecanicos de Equipo Pesado
+8374,Mecanicos de Aviacion
+8375,Mecanicos de Aire Acondicionado y Refrigeracion
+8381,Mecanicos de Vehiculos Automotores
+8382,Electricistas de Vehiculos Automotores
+8383,Mecanicos de Motos
+8384,Latoneros
+8391,Reparadores de Aparatos Electrodomesticos
+8392,Mecanicos Electricistas
+8393,Ajustadores y Reparadores de Equipos Electronicos
+8394,Mecanicos de Otros Pequenas Maquinas y Motores
+8411,Instaladores Residenciales y Comerciales
+8412,Operarios de Mantenimiento Instalaciones de Abastecimiento de Agua y Gas
+8413,Vidrieros
+8414,Otros Reparadores
+8421,Tapiceros
+8422,Sastres Modistos Peleteros y Sombrereros
+8423,Zapateros y Afines
+8424,Joyeros y Relojeros
+8425,Tipografos
+8426,Cerrajeros y Otros Oficios
+8427,Buzos
+8431,Operadores de Maquinas Estacionarias y Equipo Auxiliar
+8432,Operadores de Plantas de Generacion y Distribucion de energia
+8441,Operadores de Grua
+8442,Perforadores y Operarios de Voladura -Mineria de Superficie canteras y construccion
+8443,Perforadores de Pozos de Agua
+8451,Operadores de Equipo Pesado (excepto grua)
+8452,Operadores de Equipo para Limpieza de Vias y Alcantarillado
+8453,Operadores de Maquinaria Agricola
+8461,Maquinistas de Transporte Ferroviario
+8462,Guardafrenos y Otros Operadores Ferroviarios
+8471,Conductores de Vehiculos Pesados
+8472,Conductores de Bus Operadores de Metro y Otros Medios de transporte colectivo
+8473,Conductores de Vehiculos Livianos
+8481,Marineros de Cubierta
+8482,Marineros de Sala de Maquinas
+8483,Operadores de Pequenas Embarcaciones
+8484,Operarios de Rampa Transporte Aereo
+8491,Operarios Portuarios
+8492,Operarios de Cargue y Descargue de Materiales
+8611,Ayudantes y Obreros de Construccion
+8612,Ayudantes de Otros Oficios
+8621,Obreros de Mantenimiento de Obras Publicas
+8622,Ayudantes de Transporte Automotor
+9211,Supervisores Tratamiento de Metales y Minerales
+9212,Supervisores Procesamiento de Quimicos Petroleo gas y tratamiento de agua y generacion de energia
+9213,Supervisores Procesamiento de Alimentos Bebidas y tabaco
+9214,Supervisores Fabricacion de Productos de Plostico y caucho
+9215,Supervisores Procesamiento de la Madera y Produccion de pulpa y papel
+9216,Supervisores Procesamiento Textil
+9221,Supervisores Ensamble de Vehiculos de Motor
+9222,Supervisores Fabricacion de Productos Electronico
+9223,Supervisores Fabricacion de Productos Electricos
+9224,Supervisores Fabricacion de Muebles y Accesorios
+9225,Supervisores Fabricacion de Productos de Tela Cuero y piel
+9226,Supervisores Impresion y Ocupaciones Relacionadas
+9227,Supervisores Fabricacion de Otros Productos Mecanicos y metalicos
+9228,Supervisores Fabricacion y Ensamble de Otros Productos
+9231,Operadores de Control Central de Procesos Tratamiento de metales y minerales
+9232,Operadores de Procesos Quimicos Gas y Petroleo
+9233,Operadores de Control de Procesos Produccion de Pulpa
+9234,Operadores de Control de Procesos Fabricacion de Papel
+9311,Operadores de Maquinas Tratamiento de Metales y Minerales
+9312,Trabajadores de Fundicion
+9313,Operadores de Fabricacion Moldeo y Acabado del Vidrio
+9314,Operadores de Moldeo de Arcilla Piedra y Concreto
+9315,Inspectores de Control de Calidad Tratamiento de metales y minerales
+9321,Operadores de Maquinas de Planta Quimica
+9322,Operadores de Maquinas para Procesamiento de Plasticos
+9323,Operadores de Maquinas y Trabajadores Relacionados con el procesamiento del caucho
+9324,Operadores de Plantas de Tratamiento de Aguas y Desechos
+9331,Operadores de Maquinas para Procesamiento de la Madera
+9332,Operadores de Maquinas para la Produccion de Pulpa
+9333,Operadores de Maquinas para la Fabricacion de Papel
+9334,Operadores de Maquinas para la Fabricacion de Producion de papel
+9335,Inspectores de Control de Calidad Procesamiento de la madera
+9341,Operadores de Maquinas para la Preparacion de Fibras textiles
+9342,Operadores de Telares y Otras Maquinas Tejedoras
+9343,Operadores de Maquinas de Tintura y Acabado Textil
+9344,Analistas de Calidad Textiles
+9351,Operadores de Maquinas para Coser
+9352,Cortadores de Tela Cuero y Piel
+9353,Operadores de Maquinas y Trabajadores Relacionados con la fabricacion de calzado y marroquineria
+9354,Operarios del Tratamiento de Pieles y Cueros
+9355,Inspectores de Control de Calidad Fabricacion de tela piel y cuero
+9361,Operadores de Control de Procesos y Maquinas para la elaboracion de alimentos y bebidas
+9362,Operarios de Planta de Beneficio Animal
+9363,Operarios de Planta de Procesamiento y Empaque de pescado
+9364,Operadores de Maquinas para la Elaboracion de Productos de tabaco
+9365,Inspectores de Control de Calidad Procesamiento de alimentos y bebidas
+9371,Operadores de Maquinas de Impresion
+9372,Grabadores y Otras Ocupaciones de Pre-impresion
+9373,Operadores de Maquinas de Encuadernacion y Acabado
+9374,Procesadores Fotograficos y de Peliculas
+9381,Ensambladores e Inspectores de Vehiculos Automotor
+9382,Ensambladores Fabricantes e Inspectores de Equipos y Componentes Electronicos
+9383,Ensambladores e Inspectores de Aparatos y Equipo Electrico
+9384,Ensambladores Fabricantes e Inspectores de Transformadores y Motores Electricos Industriales
+9385,Ensambladores e Inspectores de Productos Mecanicos
+9386,Ensambladores e Inspectores de Ensamble de Aeronaves
+9387,Operadores de Maquinas e Inspectores de la Fabricacion de productos y componentes electricos
+9391,Ensambladores e Inspectores de Embarcaciones
+9392,Ensambladores e Inspectores de Muebles y Accesorios
+9393,Operarios de Acabado de Muebles
+9394,Ensambladores de Productos Plasticos e Inspectores
+9395,Operarios de Recubrimientos Metalicos
+9396,Pintores en Procesos de Manufactura
+9397,Otros Ensambladores e Inspectores
+9411,Operadores de Maquinas Herramientas
+9412,Operadores de Maquinas para el Trabajo de la Madera
+9413,Operadores de Maquinas para el Trabajo del Metal
+9414,Operadores de Maquinas para Forja
+9415,Operadores de Maquinas de Soldadura
+9416,Operadores de Maquinas para la Fabricacion de Otros productos metalicos
+9417,Operadores de Maquinas para la Fabricacion de Otros productos
+9611,Obreros y Ayudantes en el Tratamiento de Metales y minerales
+9612,Ayudantes en la Fabricacion Metalica
+9613,Obreros y Ayudantes de Planta Quimica
+9614,Obreros y Ayudantes en el Procesamiento de la Madera y produccion de pulpa y papel
+9615,Obreros y Ayudantes en la Elaboracion de Alimentos y Bebidas
+9616,Otros Obreros y Ayudantes en Fabricacion y Procesamiento
+

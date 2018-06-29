@@ -1,0 +1,7 @@
+(id,descripcion)
+1,Tecnica
+2,Tecnologica
+3,Universitaria
+4,Especializacion
+5,Maestria
+6,Doctorado

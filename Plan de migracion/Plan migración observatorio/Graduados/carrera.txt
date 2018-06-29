@@ -1,0 +1,57 @@
+(idcarrera,nombrecarrera)
+1,Agronomia
+2,Zootecnia
+3,Medicina Veterinaria
+4,Artes plasticas visuales y afines
+5,Artes representativas
+6,Publicidad y afines
+7,Diseno
+8,Musica
+9,Administracion
+11,Economia
+12,Contaduria publica
+13,Educacion
+18,Arquitectura y afines
+19,Ingenieria Biomedica y afines
+20,Ingenieria Ambiental sanitaria y afines
+21,Ingenieria Administrativa y afines
+22,Ingenieria Agricola forestal y afines
+23,Ingenieria Agroindustrial alimentos y afines
+24,Ingenieria Agronomica pecuaria y afines
+25,Ingenieria Civil y afines
+26,Ingenieria de Minas Metalurgia y afines
+27,Ingenieria de Sistemas Telematica y afines
+28,Ingenieria Electrica y afines
+29,Ingenieria Electronica telecomunicaciones y afines
+30,Ingenieria Industrial y afines
+31,Ingenieria Mecanica y afines
+32,Ingenieria Quimica y afines
+33,Otras Ingenierias
+34,Biologia Microbiologia y afines
+35,Fisica
+36,Geologia otros programas de ciencias naturales
+37,Matematicas Estadistica y afines
+39,Quimica y afines
+40,Bacteriologia
+41,Enfermeria
+42,Terapias
+44,Instrumentacion quirurgica
+45,Medicina
+46,Nutricion y dietetica
+47,Odontologia
+48,Optometria otros programas de ciencias de la salud
+50,Salud publica
+53,Antropologia Artes liberales
+55,Bibliotecologia otros de Ciencias Sociales y Humanas
+56,Ciencia Politica Relaciones Internacionales
+57,Comunicacion Social Periodismo y afines
+58,Deportes Educacion Fisica y Recreacion
+59,Derecho y afines
+61,Formacion relacionada con el campo militar o policial
+62,Geografia Historia
+64,Lenguas modernas Literatura Linguistica y afines
+66,Psicologia
+68,Filosofia Teologia y afines
+69,Sociologia Trabajo Social y afines
+70,Otros programas asociados a bellas artes
+999,Sin clasificar

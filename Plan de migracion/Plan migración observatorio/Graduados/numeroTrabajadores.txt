@@ -1,0 +1,6 @@
+(id,nTrabajadores)
+1,De 1 a 10 empleados
+2,De 11 a 50 empleados
+3,De 51 a 200 empleados
+4,Mas de 201 empleados
+5,ns/nr

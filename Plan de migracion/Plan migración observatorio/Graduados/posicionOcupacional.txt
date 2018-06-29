@@ -1,0 +1,6 @@
+(id,posicion)
+1,Vinculado a una empresa privada 
+2,Empleado publico
+3,Trabajador por cuenta propia
+4,Patron o empleador
+5,Trabajador familiar sin remuneracion  
